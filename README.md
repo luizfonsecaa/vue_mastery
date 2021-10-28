@@ -1,1 +1,1 @@
-# vue_mastery
+# Estudos feito na plataforma Vue Mastery
